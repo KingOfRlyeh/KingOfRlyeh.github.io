@@ -3,7 +3,7 @@ title: Jack Bollenbacher
 subtite: Physics Student
 email: jwbollenbacher@tamu.edu
 description: Freshman Physics student at Texas A&M University
-baseurl: "KingOfRlyeh.github.io" # the subpath of your site, e.g. /blog
+baseurl: "https://kingofrlyeh.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: KingOfRlyeh
 city: Spring
