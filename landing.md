@@ -1,9 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: >-
-  Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus
-  adipiscing nulla.
+description: Who am I? Browse the various sections below to find out!
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -15,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Biographical Info</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>I was born in Boulder, CO. Neat place, nice weather, very expensive. Growing up, I lived in various places in the NYC Metro area and Houston, TX. I've always loved science, one of my favorite activities when I was a kid was reading through my encyclopedia of science cover-to-cover (through at first I was more interested in the pictures.) I've always loved music, too. I took lessons for countless instruments growing up. Funnily enough, I never took lessons for the one that stuck--guitar. I also got really, <i>really</i> into metal music. I studied hard in middle and highschool, moving four times, to become a national merit scholar at Texas A&M University. I also released a metal album!</p>
 	</div>
 </section>
 
