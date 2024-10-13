@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'About Me: Fun Facts'
-image: assets/images/fun-background.jpg
+title: 'About Me: Fun Stuff'
+image: assets/images/singing.jpg
 nav-menu: true
 ---
 <p style="text-align: center;">
@@ -59,4 +59,23 @@ nav-menu: true
 
   <div class="vertical-line"></div>
 
-  <div class="
+  <div class="column">
+
+    <h2>Quirky Facts</h2>
+    <div class="section-divider"></div>
+    <ul>
+      <li><strong>Fact #1:</strong> I can solve a Rubik’s cube in under 2 minutes.</li>
+      <li><strong>Fact #2:</strong> I once attempted to learn how to code in Elvish... it didn’t go well.</li>
+      <li><strong>Fact #3:</strong> My perfect weekend involves hiking and stargazing.</li>
+    </ul>
+
+    <h2>Current Obsessions</h2>
+    <div class="section-divider"></div>
+    <ul>
+      <li><strong>Tech:</strong> Experimenting with AI models and their applications in physics.</li>
+      <li><strong>Show:</strong> "Loki" Season 2—because time travel never gets old.</li>
+      <li><strong>Game:</strong> Building cities in "Cities: Skylines 2" and losing track of time.</li>
+    </ul>
+
+  </div>
+</div>
