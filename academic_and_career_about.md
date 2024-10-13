@@ -4,14 +4,14 @@ title: 'About Me: Academic and Career'
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
-**
+---
 
   I'm a National Merit Scholar currently  studying Physics at Texas A&M University, here's the (relevant) coursework I'm involved in, have been involved in, and related skills:
 
-***
+---
 - Class of 2028
 - Physics (BS)--Computational Sciences track
-***
+---
 # Current Coursework
 ### PHYS 150
 - Building Monte Carlo simulations
@@ -25,7 +25,7 @@ nav-menu: true
 
 # Past Coursework
 Check back soon :)
-***
+---
 # Research, Projects, and Internships
 ## Toback Research Group
 *Aug 2024 - Present*
@@ -36,7 +36,7 @@ Working on the SuperCDMS colaboration, focusing on simulation of phonon edge int
 - Python, C++
 - Geant4
 - GCMP4
-***
+---
 # Academic Organizations
 ## TAMU Fusion Club
 - Frequent talks and collaborations with Lawrence Livermore National Laboratory Internal Confinement Fusion scientists and officials.
