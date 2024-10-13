@@ -83,7 +83,7 @@ nav-menu: true
     <p><em>Oct 2024 - Present</em><br>
     On top of bringing you great information about moi, this website is an awesome project for me to </p>
 
-    <h3>Skills</h3>
+    <h4>Skills</h4>
     <ul>
       <li>Linux, Unix</li>
       <li>Gitlab</li>
@@ -93,6 +93,20 @@ nav-menu: true
       <li>HTML</li>
     </ul>
   </div>
+
+    <h2>Academic Organizations</h2>
+    <div class="section-divider"></div>
+    <h3>>TAMU Fusion Club</h3>
+    <ul>
+      <li>Frequent talks and collaborations with Lawrence Livermore National Laboratory Internal Confinement Fusion scientists and officials.          </li>
+      <li>Overview of the physics and engineering behind recent fusion energy breakthroughs</li>
+    </ul>
+     <h3>Society of Physics Students</h3>
+    <ul>
+      <li>Weekly meetings with talks from physics faculty</li>
+      <li>Incredibly active outreach program with lots of opportunity for community engagement</li>
+    </ul>
+  
 </div>
 
 <div class="section-divider"></div>
