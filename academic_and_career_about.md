@@ -5,9 +5,15 @@ image: assets/images/today-campus-aerial-2.jpg
 nav-menu: true
 ---
 ---
+<p style="text-align: center;">
+  I'm a <b>National Merit Scholar</b> currently studying <b>Computational Physics</b> at <b>Texas A&M University</b>.<br>
+  In this space, you'll find some relevant academic facts about me, as well as where I think my career might be going.
+</p>
 
-<h2>I'm a National Merit Scholar currently studying Computational Physics at Texas A&M University, class of 2028</h2> 
-<h3>here's what I'm involved in...</h3>
+# Career Aspirations
+---
+For general interests, see my page on Academic and Career interests. I hope to work through my undergrad years and seize every opportunity that presents itself. Currently, my aim is set on working on fusion energy at Lawrence Livermore, but I'm open to any curious avenues that the tides may pull me to! I want a career that puts me at the frontier of human knowledge--enabling me to be a forever learner. I'd also like to be fairly compensated for the work I do, but that doesn't matter too much as long as I can live comfortably wherever I end up and enjoy the work I'm doing.
+
 
 # Current Coursework
 ---
@@ -17,7 +23,7 @@ nav-menu: true
 - Dynamics simulations
 - Freshening my NumPy skills
 - GitHub skills!
-- 
+  
 ### Math 221 Honors
 - Optimization problems in 3-dimensions
 - Better understanding of thinking in differential mathematics
