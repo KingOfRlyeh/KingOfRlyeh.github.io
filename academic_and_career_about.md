@@ -14,7 +14,8 @@ nav-menu: true
 ---
 For general interests, see my page on Academic and Career interests. I hope to work through my undergrad years and seize every opportunity that presents itself. Currently, my aim is set on working on fusion energy at Lawrence Livermore, but I'm open to any curious avenues that the tides may pull me to! I want a career that puts me at the frontier of human knowledge--enabling me to be a forever learner. I'd also like to be fairly compensated for the work I do, but that doesn't matter too much as long as I can live comfortably wherever I end up and enjoy the work I'm doing.
 
-
+<div class="row 200%">
+	<div class="6u 12u$(medium)">
 # Current Coursework
 ---
 
@@ -59,4 +60,5 @@ On top of bringing you great information about moi, this website is an awesome p
 ## Society Of Physics Students
 - Weekly meetings with talks from physics faculty
 - Incredibly active outreach program with lots of opportunity for community engagement
-  
+  </div>
+</div>
