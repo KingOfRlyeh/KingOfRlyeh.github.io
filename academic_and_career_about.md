@@ -6,11 +6,8 @@ nav-menu: true
 ---
 ---
 
-  # I'm a National Merit Scholar currently studying Physics at Texas A&M University 
+  # I'm a National Merit Scholar currently studying Computational Physics at Texas A&M University, class of 2028
   ## here's what I'm involved in
-
-- Class of 2028
-- Physics (BS)--Computational Sciences track
 
 # Current Coursework
 ---
