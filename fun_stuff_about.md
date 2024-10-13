@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 'About Me: Fun Stuff'
-image: assets/images/singing.JPG
 nav-menu: true
+image: null
 ---
 <p style="text-align: center;">
   Here's a little something different—some fun facts and quirky details about me!
@@ -38,7 +38,7 @@ nav-menu: true
   /* Style for the header image transparency */
   .banner {
       position: relative;
-      background: url('{{ site.baseurl }}/{{ page.image }}') no-repeat center center;
+      background: url('assets/images/singing.JPG') no-repeat center center; /* Directly reference the image here */
       background-size: cover;
       height: 300px;
       opacity: 0.4; /* Set the transparency level */
