@@ -48,6 +48,7 @@ nav-menu: true
     <h2>Current Coursework</h2>
     <div class="section-divider"></div>
     <h3>PHYS 150</h3>
+    <h4>Physics Programing</h4>
     <ul>
       <li>Building Monte Carlo simulations</li>
       <li>Dynamics simulations</li>
@@ -56,6 +57,7 @@ nav-menu: true
     </ul>
   
     <h3>Math 221 Honors</h3>
+    <h4>Multivariable Calculus</h4>
     <ul>
       <li>Optimization problems in 3-dimensions</li>
       <li>Better understanding of thinking in differential mathematics</li>
@@ -88,6 +90,7 @@ nav-menu: true
       <li>Python, C++</li>
       <li>Geant4</li>
       <li>GCMP4</li>
+      <li>HTML</li>
     </ul>
   </div>
 </div>
