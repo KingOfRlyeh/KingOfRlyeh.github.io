@@ -48,7 +48,7 @@ nav-menu: true
     <h2>Current Coursework</h2>
     <div class="section-divider"></div>
     <h3>PHYS 150</h3>
-    <h4>Physics Programing</h4>
+    <h4>Physics Programming</h4>
     <ul>
       <li>Building Monte Carlo simulations</li>
       <li>Dynamics simulations</li>
@@ -95,17 +95,25 @@ nav-menu: true
   </div>
 </div>
 
-<h2>Academic Organizations</h2>
 <div class="section-divider"></div>
 
-<h3>TAMU Fusion Club</h3>
-<ul>
-  <li>Frequent talks and collaborations with Lawrence Livermore National Laboratory Internal Confinement Fusion scientists and officials.</li>
-  <li>Overview of the physics and engineering behind recent fusion energy breakthroughs</li>
-</ul>
+<h2>Academic Organizations</h2>
+<div class="two-column">
+  <div class="column">
+    <h3>TAMU Fusion Club</h3>
+    <ul>
+      <li>Frequent talks and collaborations with Lawrence Livermore National Laboratory Internal Confinement Fusion scientists and officials.</li>
+      <li>Overview of the physics and engineering behind recent fusion energy breakthroughs</li>
+    </ul>
+  </div>
 
-<h3>Society Of Physics Students</h3>
-<ul>
-  <li>Weekly meetings with talks from physics faculty</li>
-  <li>Incredibly active outreach program with lots of opportunity for community engagement</li>
-</ul>
+  <div class="vertical-line"></div>
+
+  <div class="column">
+    <h3>Society Of Physics Students</h3>
+    <ul>
+      <li>Weekly meetings with talks from physics faculty</li>
+      <li>Incredibly active outreach program with lots of opportunity for community engagement</li>
+    </ul>
+  </div>
+</div>
