@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>My academic past and my career future.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="page.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>Random tidbits about me: Music, non-academic clubs, travel, videogames</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="page.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p>HEP, HEDP, HPDE, and more!</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="page.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +80,7 @@ nav-menu: true
 				</header>
 				<p>What fun things do I like?</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="page.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
