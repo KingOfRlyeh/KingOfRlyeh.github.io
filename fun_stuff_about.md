@@ -34,11 +34,34 @@ nav-menu: true
       height: 100%;
       margin: 0 1rem;
   }
+
+  /* Style for the header image transparency */
+  .banner {
+      position: relative;
+      background: url('{{ site.baseurl }}/{{ page.image }}') no-repeat center center;
+      background-size: cover;
+      height: 300px;
+      opacity: 0.4; /* Set the transparency level */
+  }
+
+  .banner .title {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      font-size: 3rem;
+      text-align: center;
+  }
 </style>
+
+<!-- Transparent Banner Section -->
+<div class="banner">
+  <div class="title">{{ page.title }}</div>
+</div>
 
 <div class="two-column">
   <div class="column">
-    
     <h2>Hobbies</h2>
     <div class="section-divider"></div>
     <ul>
@@ -60,7 +83,6 @@ nav-menu: true
   <div class="vertical-line"></div>
 
   <div class="column">
-
     <h2>Quirky Facts</h2>
     <div class="section-divider"></div>
     <ul>
@@ -76,6 +98,5 @@ nav-menu: true
       <li><strong>Show:</strong> "Loki" Season 2—because time travel never gets old.</li>
       <li><strong>Game:</strong> Building cities in "Cities: Skylines 2" and losing track of time.</li>
     </ul>
-
   </div>
 </div>
