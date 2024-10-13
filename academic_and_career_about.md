@@ -6,8 +6,8 @@ nav-menu: true
 ---
 ---
 
-  # I'm a National Merit Scholar currently studying Computational Physics at Texas A&M University, class of 2028
-  ## here's what I'm involved in
+<h2>I'm a National Merit Scholar currently studying Computational Physics at Texas A&M University, class of 2028</h2> 
+<h3>here's what I'm involved in...</h3>
 
 # Current Coursework
 ---
@@ -41,6 +41,9 @@ Working on the SuperCDMS colaboration, focusing on simulation of phonon edge int
 - Geant4
 - GCMP4
 
+##This Website!
+*Oct 2024 - Present*
+On top of bringing you great information about moi, this website is an awesome project for me to 
 # Academic Organizations
 ---
 ## TAMU Fusion Club
