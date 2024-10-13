@@ -4,7 +4,9 @@ title: 'About Me: Academic and Career'
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
-  I'm currently a National Merit Scholar studying Physics at Texas A&M University, here's the (relevant) coursework I'm involved in, have been involved in, and related skills:
+**
+
+  I'm a National Merit Scholar currently  studying Physics at Texas A&M University, here's the (relevant) coursework I'm involved in, have been involved in, and related skills:
 
 ***
 - Class of 2028
