@@ -2,7 +2,7 @@
 title: About Me
 layout: landing
 description: Who am I? Browse the various sections below to find out!
-image: assets/images/pic07.jpg
+image: assets/images/snowmountain.jpg
 nav-menu: true
 ---
 
