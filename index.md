@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Jack'
 description: null
-image: 'assets/images/forty.jpg'
+image: null
 author: null
 show_tile: false
 ---
