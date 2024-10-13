@@ -97,11 +97,11 @@ nav-menu: true
 
 <div class="section-divider"></div>
 
+<h2>Academic Organizations</h2>
+<div class="section-divider"></div>
+
 <div class="two-column">
   <div class="column">
-    <h2>Academic Organizations</h2>
-    <div class="section-divider"></div>
-    
     <h3>TAMU Fusion Club</h3>
     <ul>
       <li>Frequent talks and collaborations with Lawrence Livermore National Laboratory Internal Confinement Fusion scientists and officials.</li>
