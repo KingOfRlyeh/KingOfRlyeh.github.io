@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>About Me: Fun Stuff</h3>
 				</header>
-				<p>Random tidbits about me</p>
+				<p>Random tidbits about me: Music, non-academic clubs, travel, videogames</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
