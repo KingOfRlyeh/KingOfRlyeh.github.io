@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'About Me: Academic and Career'
-image: assets/images/pic11.jpg
+image: assets/images/today-campus-aerial-2.jpg
 nav-menu: true
 ---
 ---
