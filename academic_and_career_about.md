@@ -6,7 +6,8 @@ nav-menu: true
 ---
 ---
 
-  I'm a National Merit Scholar currently  studying Physics at Texas A&M University, here's the (relevant) coursework I'm involved in, have been involved in, and related skills:
+  # I'm a National Merit Scholar currently studying Physics at Texas A&M University 
+  ## here's what I'm involved in
 
 - Class of 2028
 - Physics (BS)--Computational Sciences track
