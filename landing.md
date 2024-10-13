@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: About Me
 layout: landing
 description: Who am I? Browse the various sections below to find out!
 image: assets/images/pic07.jpg
@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Biographical Info</h2>
 		</header>
-		<p>I was born in Boulder, CO. Neat place, nice weather, very expensive. Growing up, I lived in various places in the NYC Metro area and Houston, TX. I've always loved science, one of my favorite activities when I was a kid was reading through my encyclopedia of science cover-to-cover (through at first I was more interested in the pictures.) I've always loved music, too. I took lessons for countless instruments growing up. Funnily enough, I never took lessons for the one that stuck--guitar. I also got really, <i>really</i> into metal music. I studied hard in middle and highschool, moving four times, to become a national merit scholar at Texas A&M University. I also released a metal album!</p>
+		<p>I was born in Boulder, CO. Neat place. Nice and cold, nice and dry, very expensive. Growing up, I lived in various places in the NYC Metro area and Houston, TX. I've always loved science, one of my favorite activities when I was a kid was reading through my encyclopedia of science cover-to-cover (through at first I was more interested in the pictures.) I've always loved music, too. I took lessons for countless instruments growing up. Funnily enough, I never took lessons for the one that stuck--guitar. I also got really, <i>really</i> into metal music. I studied hard in middle and highschool, moving four times meanwhile, to become a national merit scholar at Texas A&M University. I also released a metal album!</p>
 	</div>
 </section>
 
@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>About Me: Academics and Career</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -44,7 +44,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>About Me: Fun Stuff</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -60,7 +60,23 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Interests: Academics and Career</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+  	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>About Me: Fun Stuff</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
