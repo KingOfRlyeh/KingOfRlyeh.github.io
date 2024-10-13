@@ -56,7 +56,7 @@ nav-menu: true
       <li>GitHub skills!</li>
     </ul>
   
-    <h3>Math 221 Honors</h3>
+    <h3>MATH 221 Honors</h3>
     <h4>Multivariable Calculus</h4>
     <ul>
       <li>Optimization problems in 3-dimensions</li>
