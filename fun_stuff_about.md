@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'About Me: Fun Stuff'
-image: assets/images/singing.jpg
+image: assets/images/singing.JPG
 nav-menu: true
 ---
 <p style="text-align: center;">
