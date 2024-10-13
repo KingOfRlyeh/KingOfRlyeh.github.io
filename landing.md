@@ -53,38 +53,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Interests: Academics and Career</h3>
-				</header>
-				<p>HEP, HEDP, HPDE, and more!</p>
-				<ul class="actions">
-					<li><a href="page.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-  	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Interests: Fun Stuff</h3>
-				</header>
-				<p>What fun things do I like?</p>
-				<ul class="actions">
-					<li><a href="page.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 </section>
 
 <!-- Three -->
