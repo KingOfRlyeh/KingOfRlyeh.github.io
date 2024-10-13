@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>Random tidbits about me: Music, non-academic clubs, travel, videogames</p>
 				<ul class="actions">
-					<li><a href="page.html" class="button">Learn more</a></li>
+					<li><a href="fun_stuff_about.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
