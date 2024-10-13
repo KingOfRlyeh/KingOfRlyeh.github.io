@@ -37,7 +37,7 @@ Check back soon :)
 # Research, Projects, and Internships
 ---
 ## Toback Research Group
-*Aug 2024 - Present*
+*Aug 2024 - Present*<br>
 Working on the SuperCDMS colaboration, focusing on simulation of phonon edge interactions. Very cool! Very good!
 
 ### Skills
@@ -47,8 +47,8 @@ Working on the SuperCDMS colaboration, focusing on simulation of phonon edge int
 - Geant4
 - GCMP4
 
-##This Website!
-*Oct 2024 - Present*
+## This Website!
+*Oct 2024 - Present*<br>
 On top of bringing you great information about moi, this website is an awesome project for me to 
 # Academic Organizations
 ---
