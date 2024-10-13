@@ -92,7 +92,7 @@ nav-menu: true
       <li>GCMP4</li>
       <li>HTML</li>
     </ul>
-  </div>
+
 
     <h2>Academic Organizations</h2>
     <div class="section-divider"></div>
@@ -106,30 +106,7 @@ nav-menu: true
       <li>Weekly meetings with talks from physics faculty</li>
       <li>Incredibly active outreach program with lots of opportunity for community engagement</li>
     </ul>
-  
-</div>
-
-<div class="section-divider"></div>
-
-<h2>Academic Organizations</h2>
-<div class="section-divider"></div>
-
-<div class="two-column">
-  <div class="column">
-    <h3>TAMU Fusion Club</h3>
-    <ul>
-      <li>Frequent talks and collaborations with Lawrence Livermore National Laboratory Internal Confinement Fusion scientists and officials.</li>
-      <li>Overview of the physics and engineering behind recent fusion energy breakthroughs</li>
-    </ul>
-  </div>
-
-  <div class="vertical-line"></div>
-
-  <div class="column">
-    <h3>Society Of Physics Students</h3>
-    <ul>
-      <li>Weekly meetings with talks from physics faculty</li>
-      <li>Incredibly active outreach program with lots of opportunity for community engagement</li>
-    </ul>
+    
   </div>
 </div>
+
