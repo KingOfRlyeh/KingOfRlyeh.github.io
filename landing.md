@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>My academic past and my career future.</p>
 				<ul class="actions">
-					<li><a href="about-academics-and-career.html" class="button">Learn more</a></li>
+					<li><a href="academic_and_career_about.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
