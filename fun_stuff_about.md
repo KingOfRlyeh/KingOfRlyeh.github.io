@@ -84,7 +84,7 @@ image: null
   <div class="vertical-line"></div>
 
   <div class="column">
-    <h2>Quirky Facts</h2>
+    <h2>Random Facts</h2>
     <div class="section-divider"></div>
     <ul>
       <li><strong>Fact #1:</strong> I'm really good at voice impressions.</li>
