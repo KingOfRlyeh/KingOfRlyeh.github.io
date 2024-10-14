@@ -2,7 +2,7 @@
 layout: page
 title: 'About Me: Academic and Career'
 image: assets/images/today-campus-aerial-2.jpg
-nav-menu: true
+nav-menu: false
 ---
 <p style="text-align: center;">
   I'm a <b>National Merit Scholar</b> currently studying <b>Computational Physics</b> at <b>Texas A&M University</b>.<br>
