@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="academic_and_career_about.html" class="image">
 			<img src="{% link assets/images/tamupanda.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -38,7 +38,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="fun_stuff_about.html" class="image">
 			<img src="{% link assets/images/albums.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
