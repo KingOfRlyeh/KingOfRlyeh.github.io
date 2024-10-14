@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'About Me: Fun Stuff'
-nav-menu: true
+nav-menu: false
 image: null
 ---
 <p style="text-align: center;">
