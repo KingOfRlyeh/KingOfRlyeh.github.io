@@ -65,7 +65,7 @@ image: null
     <h2>Hobbies</h2>
     <div class="section-divider"></div>
     <ul>
-      <li><strong>Gaming:</strong> I'm love strategy/builder games like Cities Skylines, puzzle games, and classics like Team Fortress 2.</li>
+      <li><strong>Gaming:</strong> I'm into strategy/builder games like Cities Skylines, puzzle games, and classics like Team Fortress 2.</li>
       <li><strong>Music:</strong> I play guitar, do clean and harsh vocals, and compose baroque and metal music. In August 2024, I released a metal album under the artist name "Mystechron". I go to plenty of metal shows and am active in the CStat music scene.</li>
       <li><strong>Books:</strong> I like old horror like H.P. Lovecraft and modern non-fiction about any topic under the sun.</li>
     </ul>
@@ -76,7 +76,7 @@ image: null
       <li><strong>TV Show:</strong> Smiling Friends, it's a breath of fresh air in modern animation.</li>
       <li><strong>Movie:</strong> I'm a sucker for Studio Ghibli, my favorite is Princess Mononoke.</li>
       <li><strong>Band:</strong> A tie between Dream Theater and Behemoth! I'm a huge metal fan and could honestly make a case for dozens of bands being my favorite!</li>
-      <li><strong>Animal:</strong> I love cats with all of my heart. They're the best. I'm also quite fond of small, brown and furry critters like wombats and marmots.
+      <li><strong>Animal:</strong> I love cats with all of my heart. They're the best. I'm also quite fond of small, brown, and furry critters like wombats and marmots.</li>
     </ul>
 
   </div>
@@ -87,7 +87,7 @@ image: null
     <h2>Quirky Facts</h2>
     <div class="section-divider"></div>
     <ul>
-      <li><strong>Fact #1:</strong>I'm really good at voice impressions.</li>
+      <li><strong>Fact #1:</strong> I'm really good at voice impressions.</li>
       <li><strong>Fact #2:</strong> I once knew how to play 5 instruments. (I will say that being ok at 5 instruments is much easier than being good at 1 instrument ;) )</li>
       <li><strong>Fact #3:</strong> I don't get chances to go hiking often, but I like going on week-long backpacking journeys in the summer.</li>
     </ul>
@@ -96,7 +96,7 @@ image: null
     <div class="section-divider"></div>
     <ul>
       <li><strong>Music:</strong> Bluegrass Black Metal. Sounds strange, I know, but give it a try! My suggestion is the band "Panopticon".</li>
-      <li><strong>Show:</strong> While not technically a show... I've been watching a lot of video essays on how technology (i-Pads) is affecting early childhood development.</li>
+      <li><strong>Show:</strong> While not technically a show... I've been watching a lot of video essays on how technology (iPads) is affecting early childhood development.</li>
       <li><strong>Game:</strong> The classic! Team Fortress 2... it never gets old.</li>
     </ul>
   </div>
