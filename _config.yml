@@ -1,16 +1,16 @@
 # site settings
 title: Jack Bollenbacher
-subtitle: KingOfRlyeh
+subtitle: Physics and Math Student
 email: jwbollenbacher@tamu.edu
-description: Freshman Physics student at Texas A&M University
+description: Physics and Math dual degree student at Texas A&M University
 baseurl: "https://kingofrlyeh.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 landing-title: does this fix it?
-author: KingOfRlyeh
-city: Spring
-state: TX
-zip_code: 77379
-country: United States of America
+#author: KingOfRlyeh
+#city: Spring
+#state: TX
+#zip_code: 77379
+#country: United States of America
 
 
 # homepage tiles
