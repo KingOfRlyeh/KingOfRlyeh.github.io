@@ -36,7 +36,8 @@ markdown: kramdown
 sass:
   style: compressed
   
-theme: forty
+remote_theme: chrisbobbe/jekyll-theme-forty
+
   
 exclude:
 - "*.gemspec"
