@@ -3,6 +3,7 @@ ruby "3.2.2"
 
 gem "jekyll", "~> 4.3.4"
 gem "jekyll-remote-theme"
+gem "jekyll-feed"
 gem "webrick", "~> 1.7"
 
 group :jekyll_plugins do
