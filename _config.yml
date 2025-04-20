@@ -4,7 +4,7 @@ subtitle: Physics and Math Student
 email: jwbollenbacher@tamu.edu
 description: Physics and Math dual degree student at Texas A&M University
 baseurl: "https://kingofrlyeh.github.io" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://kingofrlyeh.netlify.app"
 landing-title: does this fix it?
 author: KingOfRlyeh
 city: Spring
@@ -37,6 +37,12 @@ sass:
   style: compressed
   
 remote_theme: chrisbobbe/jekyll-theme-forty
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-timeago
 
   
 exclude:
