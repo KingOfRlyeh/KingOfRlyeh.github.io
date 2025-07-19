@@ -1,0 +1,22 @@
+---
+import '../styles/global.css';
+import CourseworkColumn from '../components/CourseworkColumn.jsx';
+import  ExtracurricularColumn  from '../components/ExtracurricularColumn.jsx';
+---
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <title>Curriculum Vitae</title>
+    </head>
+    <body class="bg-[#f4e9dc] text-[#222] font-mono px-6 py-12">
+        <a href="/" class="absolute left-6 top-6 text-[#542437] bg-[#f4e9dc] border border-[#542437] rounded px-4 py-2 font-semibold shadow hover:bg-[#e0c9a6] transition z-10">Home</a>
+        <h1 class="text-4xl md:text-5xl text-center font-bold text-[#542437] mb-12">Curriculum Vitae</h1>
+
+        <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-8">
+            <CourseworkColumn client:load />
+            <ExtracurricularColumn client:load />
+        </div>
+    </body>
+</html>
