@@ -1,3 +1,5 @@
+import React, { useState, useEffect } from "react";
+import { AnimatePresence, motion } from "framer-motion";
 const termWeight = { Spring: 1, Summer: 2, Fall: 3 };
 function parseSortKey(dateStr) {
     const match = dateStr.match(/(Spring|Summer|Fall) (\d{4})/);
@@ -75,32 +77,38 @@ const courseworkEntries = [
     },
     {
         date: 'Summer 2025',
+        sortKey: parseSortKey('Summer 2025'),
         title: 'Undergraduate Research (PHYS 291)',
         subtitle: 'Computational High Energy and Condensed Matter Physics',
         desc: `Faculty-supervised research experience in computational physics (see "Undergraduate Researcher").`
     },
     {
         date: 'Fall 2025',
+        sortKey: parseSortKey('Fall 2025'),
         title: 'Foundations of Mathematics (MATH 300)',
         desc: `Logic, set theory, and proof techniques; introduction to rigorous mathematics.`
     },
     {
         date: 'Fall 2025',
+        sortKey: parseSortKey('Fall 2025'),
         title: 'Mathematical Probability (MATH 411)',
         desc: `Probability theory including random variables, distributions, and expectations.`
     },
     {
         date: 'Fall 2025',
+        sortKey: parseSortKey('Fall 2025'),
         title: 'Tensors and General Relativity (MATH 460)',
-        desc: `Tensor calculus and Einstein's theory of gravitation.`
+        desc: `Tensor calculus, manifolds, gauge field theories, and Einstein's theory of gravitation.`
     },
     {
         date: 'Fall 2025',
+        sortKey: parseSortKey('Fall 2025'),
         title: 'Contemporary Moral Issues (PHIL 111)',
         desc: `Critical thinking on moral problems in modern society.`
     },
     {
         date: 'Fall 2025',
+        sortKey: parseSortKey('Fall 2025'),
         title: 'State & Local Government (POLS 207)',
         desc: `Government structure and policy at the state and local levels in the U.S.`
     }

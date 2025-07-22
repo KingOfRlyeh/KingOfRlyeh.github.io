@@ -1,0 +1,19 @@
+
+---
+import ReviewCard from '../../components/ReviewCard.jsx';
+import reviews from '../../data/reviews.js';
+import '../../styles/global.css';
+---
+
+<main class="bg-[#f4e9dc] text-[#222] font-mono px-6 py-12 min-h-screen relative">
+  <a href="/" class="absolute left-6 top-6 text-[#542437] bg-[#f4e9dc] border border-[#542437] rounded px-4 py-2 font-semibold shadow hover:bg-[#e0c9a6] transition z-10">Home</a>
+  <a href="/music" class="absolute left-25 top-6 text-[#542437] bg-[#f4e9dc] border border-[#542437] rounded px-4 py-2 font-semibold shadow hover:bg-[#e0c9a6] transition z-10">Back</a>
+  <h1 class="text-4xl md:text-5xl text-center font-bold text-[#542437] mb-12">Reviews</h1>
+  <div class="max-w-4xl mx-auto grid gap-8 grid-cols-1 sm:grid-cols-2">
+    {reviews.map((rev) => (
+      <a href={`/music/reviews/${rev.slug}`} class="no-underline">
+        <ReviewCard {...rev} />
+      </a>
+    ))}
+  </div>
+</main>
