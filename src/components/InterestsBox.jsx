@@ -5,7 +5,7 @@ export default function InterestsBox() {
       <ul className="list-disc list-inside space-y-1">
         <li>Computational & Mathematical Physics</li>
         <li>Partial Differential Equations, Hydrodynamics (particularly for fusion sciences)</li>
-        <li>Ergodic theory, chaotic systems, emergent behavior</li>
+        <li>Ergodic theory, chaotic systems, emergent behavior, information</li>
         <li>Music composition and performance, Metal and Classical</li>
         <li>Philosophy of Science & Technology, Self & Other</li>
       </ul>
