@@ -37,7 +37,7 @@ const projects = [
     img: "/images/RT-thumb.png",
     expanded: (
       <>
-        <img src="/images/RT-demo.gif" alt="Music Visualizer Demo" className="mx-auto mb-4 rounded-lg max-h-64" />
+        <img src="/images/RT-demo.gif" alt="Rayleigh-Taylor instability demo" className="mx-auto mb-4 rounded-lg max-h-64" />
         <p>In this project, I and two friends made a simple simulation and visualization of the Rayleigh-Taylor instability using grid discretization and time-stepping methods.</p>
         <p>This was created as a final to our freshman Intro to Physics Programming class. Yes, this is very over the top, but we were bored the whole semester and wanted a challenge that wasn't "simulate a bouncing ball".</p>
       </>
@@ -45,13 +45,14 @@ const projects = [
   },
 
   {
-    title: "Auto MIDI (WIP)",
-    desc: "A modular system to convert organic guatar playing into MIDI",
-    img: "/images/auto-midi-thumb.png",
+    title: "A Computational Model of Influencer Sociodynamics",
+    desc: "A mathematical model of the effect of influencer on social trends in multi-layer networks",
+    img: "/images/Influencernetwork-socialmedia.png",
+    github: "https://github.com/KingOfRlyeh/Influencer-Dynamics/tree/main",
     expanded: (
       <>
-        <img src="/images/midi-demo.png" alt="Music Visualizer Demo" className="mx-auto mb-4 rounded-lg max-h-64" />
-        <p>I'm developing a system, using modular per-string piezoelectric pickups, to instantly translate organic guitar playing into MIDI. The per-string setup and direct piezoelectric output are what makes this approach novel. I'm developing the software for this currently, but it'll be a while before I buy the components for the physical system. (Piezos are expensive!) </p>
+        <img src="/images/figure_saved_20251117_115258" alt="'Fashion space' magnitude over time" className="mx-auto mb-4 rounded-lg max-h-64" />
+        <p>I created a mathematical model of the effect of influencers on self-representation(fashion) and conformity in multiple different layers via a multilayer network.</p>
       </>
     ),
   },
@@ -193,7 +194,7 @@ export default function ProjectGallery() {
                     >
                       {proj.title}
                     </motion.h2>
-                    <span className="text-[#e0c9a6] text-lg opacity-60 group-hover:opacity-100 transition-opacity select-none pointer-events-none whitespace-nowrap bg-white bg-opacity-80 px-2 rounded ml-4">
+                    <span className="text-[#e0c9a6] text-lg opacity-90 group-hover:opacity-100 transition-opacity select-none pointer-events-none whitespace-nowrap bg-white bg-opacity-80 px-2 rounded ml-4">
                       Click to expand
                     </span>
                   </div>
