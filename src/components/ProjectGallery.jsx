@@ -2,6 +2,18 @@ import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const projects = [
+    {
+    title: "A Computational Model of Influencer Sociodynamics",
+    desc: "A mathematical model of the effect of influencers on social trends in multi-layer networks",
+    img: "/images/Influencernetwork-socialmedia.png",
+    github: "https://github.com/KingOfRlyeh/Influencer-Dynamics/tree/main",
+    expanded: (
+      <>
+        <img src="/images/figure_saved_20251117_115258" alt="'Fashion space' magnitude over time" className="mx-auto mb-4 rounded-lg max-h-64" />
+        <p>I created a mathematical model of the effect of influencers on self-representation(fashion) and conformity in multiple different layers via a multilayer network.</p>
+      </>
+    ),
+  },
   {
     title: "Personal Website",
     desc: "A creative portfolio and CV built with Astro, React, and Tailwind.",
@@ -44,18 +56,6 @@ const projects = [
     ),
   },
 
-  {
-    title: "A Computational Model of Influencer Sociodynamics",
-    desc: "A mathematical model of the effect of influencers on social trends in multi-layer networks",
-    img: "/images/Influencernetwork-socialmedia.png",
-    github: "https://github.com/KingOfRlyeh/Influencer-Dynamics/tree/main",
-    expanded: (
-      <>
-        <img src="/images/figure_saved_20251117_115258" alt="'Fashion space' magnitude over time" className="mx-auto mb-4 rounded-lg max-h-64" />
-        <p>I created a mathematical model of the effect of influencers on self-representation(fashion) and conformity in multiple different layers via a multilayer network.</p>
-      </>
-    ),
-  },
 
   {
     title: "Other projects",
