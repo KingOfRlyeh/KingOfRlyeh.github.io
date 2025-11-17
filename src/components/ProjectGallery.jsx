@@ -46,7 +46,7 @@ const projects = [
 
   {
     title: "A Computational Model of Influencer Sociodynamics",
-    desc: "A mathematical model of the effect of influencer on social trends in multi-layer networks",
+    desc: "A mathematical model of the effect of influencers on social trends in multi-layer networks",
     img: "/images/Influencernetwork-socialmedia.png",
     github: "https://github.com/KingOfRlyeh/Influencer-Dynamics/tree/main",
     expanded: (
