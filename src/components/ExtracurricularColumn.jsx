@@ -13,7 +13,7 @@ function parseSortKey(dateStr) {
 
 const extracurricularEntries = [
     {
-        date: 'Summer 2024 – Present',
+        date: 'Summer 2024 – Spring 2026',
         sortKey: parseSortKey('Summer 2024'),
         title: 'Undergraduate Researcher',
         subtitle: 'SuperCDMS Collaboration, Texas A&M University',
@@ -26,7 +26,7 @@ const extracurricularEntries = [
         desc: `Weekly show on metal history featuring album reviews, concert reviews, and artist interviews.\nVoted best DJ Spring 2025 by fellow radio members.`
     },
     {
-        date: 'Spring 2025 – Spring 2026',
+        date: 'Spring 2025 – Present',
         sortKey: parseSortKey('Spring 2025'),
         title: 'Broadcast Engineer (KANM)',
         desc: `Responsible for engineering and maintaining complete audio signal chains from microphone input to streaming server output. Duties include live broadcast support, equipment setup and troubleshooting, digital and analog signal routing, audio recording and mixing, and facilitating live concert events. 
