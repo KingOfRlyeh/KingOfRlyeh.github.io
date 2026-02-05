@@ -98,7 +98,7 @@ const courseworkEntries = [
         date: 'Fall 2025',
         sortKey: parseSortKey('Fall 2025'),
         title: 'Tensors and General Relativity (MATH 460)',
-        desc: `Tensor calculus, manifolds, gauge field theories, and Einstein's theory of gravitation.`
+        desc: `Tensor calculus, manifolds, gauge field theories, Einstein's theory of gravitation, black holes, modern cosmological theory.`
     },
     {
         date: 'Fall 2025',
