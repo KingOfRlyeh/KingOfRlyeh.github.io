@@ -111,7 +111,38 @@ const courseworkEntries = [
         sortKey: parseSortKey('Fall 2025'),
         title: 'State & Local Government (POLS 207)',
         desc: `Government structure and policy at the state and local levels in the U.S.`
+    },
+    {
+        date: 'Spring 2026',
+        sortKey: parseSortKey('Spring 2026'),
+        title: 'Analysis on the Real Line (MATH 409)',
+        desc: `Cardinality; properties of the real numbers; the completeness axiom; sequences and series; continuity; differentiation; the Riemann integral.`
+    },
+    {
+        date: 'Spring 2026',
+        sortKey: parseSortKey('Spring 2026'),
+        title: 'Modern Physics (PHYS 309)',
+        desc: `Special relativity; concepts of waves and particles; introductory quantum mechanics.`
+    },
+    {
+        date: 'Spring 2026',
+        sortKey: parseSortKey('Spring 2026'),
+        title: 'Theoretical Methods for Physics I (PHYS 309)',
+        desc: `Basically just sparknotes math for physicists. Vector analysis, methods for E&M; solutions to classical PDEs; harmonic analysis; tensors and matrices.`
+    },
+    {
+        date: 'Spring 2026',
+        sortKey: parseSortKey('Spring 2026'),
+        title: 'Electronic Circuits and Applications (PHYS 225)',
+        desc: 'Linear circuit theory and applications of solid-state diodes, bipolar and field-effect transistors, operational amplifiers and digital systems.'    
+    },
+    {
+        date: 'Spring 2026',
+        sortKey: parseSortKey('Spring 2026'),
+        title: 'Data Structures and Algorithms (CSCE 221)',
+        desc: 'Stacks, queues, lists, sorting and selection, searching, graphs, and hashing; different implementations and asymptotic analysis'
     }
+
 ];
 
 function CourseworkColumn() {
