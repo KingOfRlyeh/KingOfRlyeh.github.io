@@ -26,7 +26,7 @@ const extracurricularEntries = [
         desc: `Weekly show on metal history featuring album reviews, concert reviews, and artist interviews.\nVoted best DJ Spring 2025 by fellow radio members.`
     },
     {
-        date: 'Spring 2025 – Present',
+        date: 'Spring 2025 – Spring 2026',
         sortKey: parseSortKey('Spring 2025'),
         title: 'Broadcast Engineer (KANM)',
         desc: `Responsible for engineering and maintaining complete audio signal chains from microphone input to streaming server output. Duties include live broadcast support, equipment setup and troubleshooting, digital and analog signal routing, audio recording and mixing, and facilitating live concert events. 
