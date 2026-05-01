@@ -36,7 +36,7 @@ const extracurricularEntries = [
         date: 'Summer 2026',
         sortKey: parseSortKey('Summer 2026'),
         title: 'Undergraduate Researcher',
-        subtitle: 'Brown ICERM REU'
+        subtitle: 'Brown ICERM REU',
         desc: `Pure and applied mathematical models: graph theoretical modelling of DNA self assembly.`
     }
 ];
