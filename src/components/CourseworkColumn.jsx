@@ -122,19 +122,19 @@ const courseworkEntries = [
         date: 'Spring 2026',
         sortKey: parseSortKey('Spring 2026'),
         title: 'Modern Physics (PHYS 309)',
-        desc: `Special relativity; concepts of waves and particles; introductory quantum mechanics.`
+        desc: `Special relativity; quantum physics, atomic physics, and nuclear physics.`
     },
     {
         date: 'Spring 2026',
         sortKey: parseSortKey('Spring 2026'),
-        title: 'Theoretical Methods for Physics I (PHYS 309)',
-        desc: `Basically just sparknotes math for physicists. Vector analysis, methods for E&M; solutions to classical PDEs; harmonic analysis; tensors and matrices.`
+        title: 'Theoretical Methods for Physics I (PHYS 331)',
+        desc: 'Math for physicists. Vector analysis, tensor analysis, complex variables, group theory, harmonic analysis.'
     },
     {
         date: 'Spring 2026',
         sortKey: parseSortKey('Spring 2026'),
         title: 'Electronic Circuits and Applications (PHYS 225)',
-        desc: 'Linear circuit theory and applications of solid-state diodes, bipolar and field-effect transistors, operational amplifiers and digital systems.'    
+        desc: 'Linear circuit theory and applications of solid-state diodes, bipolar and field-effect transistors, operational amplifiers and digital systems. Emphasis on hands on construciton of circuits.'    
     },
     {
         date: 'Spring 2026',
