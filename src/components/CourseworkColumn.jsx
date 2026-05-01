@@ -48,7 +48,7 @@ const courseworkEntries = [
     {
         date: 'Spring 2025',
         sortKey: parseSortKey('Spring 2025'),
-        title: 'Program Design & Concepts (CSCE 102)',
+        title: 'Program Design & Concepts (CSCE 120)',
         desc: `Foundations of software development in C++, with emphasis on modular design.`
     },
     {

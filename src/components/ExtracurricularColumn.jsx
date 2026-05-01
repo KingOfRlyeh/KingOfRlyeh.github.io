@@ -31,6 +31,13 @@ const extracurricularEntries = [
         title: 'Broadcast Engineer (KANM)',
         desc: `Responsible for engineering and maintaining complete audio signal chains from microphone input to streaming server output. Duties include live broadcast support, equipment setup and troubleshooting, digital and analog signal routing, audio recording and mixing, and facilitating live concert events. 
         Work spans both technical infrastructure and creative audio production for radio programming.`
+    },
+    {
+        date: 'Summer 2026',
+        sortKey: parseSortKey('Summer 2026'),
+        title: 'Undergraduate Researcher',
+        subtitle: 'Brown ICERM REU'
+        desc: `Pure and applied mathematical models: graph theoretical modelling of DNA self assembly.`
     }
 ];
 
