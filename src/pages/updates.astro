@@ -1,5 +1,5 @@
 ---
-import '../styles/global.css';
+import BaseLayout from '../layouts/BaseLayout.astro';
 const posts = [
   {
     date: '2025-07-21',
@@ -10,6 +10,7 @@ const posts = [
 ];
 ---
 
+<BaseLayout title="Updates">
 <main class="bg-[#f4e9dc] text-[#222] font-mono px-6 py-12 min-h-screen">
   <a href="/" class="absolute left-6 top-6 text-[#542437] bg-[#f4e9dc] border border-[#542437] rounded px-4 py-2 font-semibold shadow hover:bg-[#e0c9a6] transition z-10">Home</a>
   <h1 class="text-4xl md:text-5xl text-center font-bold text-[#542437] mb-12 tracking-tight">Site Updates</h1>
@@ -29,3 +30,4 @@ const posts = [
 
   </section>
 </main>
+</BaseLayout>

@@ -1,0 +1,37 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  subtitle?: string;
+  image?: string;
+  alt?: string;
+  type?: string;
+}
+
+const { title, subtitle, image, alt } = Astro.props;
+---
+
+<BaseLayout title={title}>
+<main class="bg-[#f4e9dc] text-[#222] font-mono px-6 py-12 min-h-screen relative">
+  <a href="/" class="absolute left-6 top-6 text-[#542437] bg-[#f4e9dc] border border-[#542437] rounded px-4 py-2 font-semibold shadow hover:bg-[#e0c9a6] transition z-10">Home</a>
+  <a href="/music/reviews" class="absolute left-25 top-6 text-[#542437] bg-[#f4e9dc] border border-[#542437] rounded px-4 py-2 font-semibold shadow hover:bg-[#e0c9a6] transition z-10">Back</a>
+  <article class="max-w-3xl mx-auto pt-8">
+    {image && (
+      <img src={image} alt={alt ?? title} class="mb-6 rounded-lg max-h-80 object-cover mx-auto" />
+    )}
+    <h1 class="text-3xl font-bold text-[#542437] mb-2">{title}</h1>
+    {subtitle && <p class="text-[#b09070] mb-6">{subtitle}</p>}
+    <div class="prose prose-stone max-w-none
+      prose-p:text-[#444] prose-p:leading-relaxed
+      prose-headings:text-[#542437] prose-headings:font-bold
+      prose-strong:text-[#542437]
+      prose-em:text-[#444]
+      prose-li:text-[#444]
+      prose-a:text-[#e76f51] prose-a:no-underline hover:prose-a:underline
+      prose-blockquote:border-[#542437] prose-blockquote:text-[#666]">
+      <slot />
+    </div>
+  </article>
+</main>
+</BaseLayout>

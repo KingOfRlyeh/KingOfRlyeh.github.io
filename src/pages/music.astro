@@ -1,7 +1,8 @@
 ---
-import '../styles/global.css';
+import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
+<BaseLayout title="Music">
 <main class="bg-[#f4e9dc] text-[#222] font-mono px-6 py-12 min-h-screen relative">
   <a href="/" class="absolute left-6 top-6 text-[#542437] bg-[#f4e9dc] border border-[#542437] rounded px-4 py-2 font-semibold shadow hover:bg-[#e0c9a6] transition z-10">Home</a>
   <h1 class="text-4xl md:text-5xl text-center font-bold text-[#542437] mb-12">Music</h1>
@@ -34,3 +35,4 @@ import '../styles/global.css';
 
   </div>
 </main>
+</BaseLayout>

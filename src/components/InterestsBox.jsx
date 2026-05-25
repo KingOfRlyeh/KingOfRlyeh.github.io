@@ -3,11 +3,10 @@ export default function InterestsBox() {
     <div className="bg-white border border-[#e0c9a6] rounded-xl shadow p-6 mb-8">
       <h2 className="text-2xl font-bold text-[#8b5e3c] mb-4">Interests</h2>
       <ul className="list-disc list-inside space-y-1">
-        <li>Computational & Mathematical Physics</li>
-        <li>Partial Differential Equations, Hydrodynamics (particularly for fusion sciences)</li>
-        <li>Ergodic theory, chaotic systems, emergent behavior, information</li>
-        <li>Music composition and performance, Metal and Classical</li>
-        <li>Philosophy of Science & Technology, Self & Other</li>
+        <li>Philosophy of technology: what technology <em>is</em>, not just what it does or how it is developed</li>
+        <li>Formal systems and their limits: category theory, Gödel, Wittgenstein, and what breaks down at the edges</li>
+        <li>Partial differential equations and scattering theory</li>
+        <li>Music composition — metal and classical</li>
       </ul>
     </div>
   );
