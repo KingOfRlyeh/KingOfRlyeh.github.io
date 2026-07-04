@@ -4,11 +4,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
 <BaseLayout title="Projects">
-<main class="bg-[#f4e9dc] text-[#222] font-mono px-6 py-12 min-h-screen relative">
-  <a href="/" class="absolute left-6 top-6 text-[#542437] bg-[#f4e9dc] border border-[#542437] rounded px-4 py-2 font-semibold shadow hover:bg-[#e0c9a6] transition z-10">Home</a>
-  <h1 class="text-4xl md:text-5xl text-center font-bold text-[#542437] mb-12">Projects</h1>
-  <div class="max-w-4xl mx-auto">
-    <ProjectGallery client:load />
-  </div>
-</main>
+  <main class="min-h-screen bg-white text-[#111] px-6 py-12 sm:px-8 lg:px-12">
+    <div class="mx-auto max-w-5xl">
+      <div class="mb-10 flex flex-wrap items-center justify-between gap-4">
+        <h1 class="text-3xl sm:text-4xl font-semibold tracking-tight">Projects</h1>
+        <a href="/" class="border border-[#111] px-4 py-2 text-sm uppercase tracking-[0.2em] transition hover:bg-[#111] hover:text-white">Home</a>
+      </div>
+
+      <div class="mx-auto max-w-4xl">
+        <ProjectGallery client:load />
+      </div>
+    </div>
+  </main>
 </BaseLayout>
