@@ -21,3 +21,22 @@ const pageTitle = title === 'Jack Bollenbacher' ? title : `${title} | Jack Bolle
     <slot />
   </body>
 </html>
+
+<style is:global>
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #111;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+</style>
