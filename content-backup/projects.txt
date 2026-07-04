@@ -1,0 +1,18 @@
+Projects
+
+- A Computational Model of Influencer Sociodynamics
+  A mathematical model of influencers' effect on social trends in a multilayer network.
+  GitHub: https://github.com/KingOfRlyeh/Influencer-Dynamics/tree/main
+
+- Personal Website
+  A simple portfolio site preserving the original content while presenting it in plain HTML and CSS.
+
+- CDMS Research
+  Research on detector physics and intervalley scattering in silicon and germanium for the SuperCDMS collaboration.
+
+- RTI Simulator
+  A compact Rayleigh-Taylor instability simulation built as a physics programming project.
+
+- Other projects
+  Additional work and experiments are preserved in the repository and can be explored on GitHub.
+  GitHub: https://github.com/kingofrlyeh

@@ -1,0 +1,30 @@
+Curriculum Vitae
+
+Skills
+- Python, C++, Java, Bash
+- High-performance computing, Slurm, Linux
+- Git and scientific computing workflows
+- Geant4, NumPy, Matplotlib, Librosa
+- Audio production in Reaper
+
+Interests
+- Philosophy of technology and the nature of technical systems
+- Formal systems, symbolic limits, and emergent behavior
+- Analysis, especially in relation to partial differential equations
+- Music composition, especially metal and classical traditions
+
+Coursework
+- History of the U.S. (HIST 105)
+- Multivariable Calculus (MATH 221)
+- Linear Algebra (MATH 304)
+- Differential Equations (MATH 308)
+- Theory of Partial Differential Equations (MATH 412)
+- Modern Physics (PHYS 309)
+- Theoretical Methods for Physics I (PHYS 331)
+- Mathematical Probability (MATH 411)
+- Tensors and General Relativity (MATH 460)
+- Data Structures and Algorithms (CSCE 221)
+
+Research & extracurriculars
+- Undergraduate Researcher, SuperCDMS Collaboration, Texas A&M University
+- Radio Host and Broadcast Engineer, KANM
